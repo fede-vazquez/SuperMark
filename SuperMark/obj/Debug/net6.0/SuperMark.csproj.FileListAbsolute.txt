@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\bin\Debug\net6.0\SuperMark.exe
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\bin\Debug\net6.0\SuperMark.deps.json
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\bin\Debug\net6.0\SuperMark.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\bin\Debug\net6.0\SuperMark.dll
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\bin\Debug\net6.0\SuperMark.pdb
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\SuperMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\SuperMark.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\SuperMark.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\SuperMark.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\SuperMark.dll
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\refint\SuperMark.dll
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\SuperMark.pdb
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\SuperMark.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\SuperMark\SuperMark\obj\Debug\net6.0\ref\SuperMark.dll
